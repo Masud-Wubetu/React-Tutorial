@@ -1,16 +1,8 @@
-import Card from './Card.jsx';
+import Counter from './Counter.jsx'
 
 function App() {
-  return (
-    <>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
-    </>
-  );
+
+  return (<Counter />);
 }
 
 export default App
